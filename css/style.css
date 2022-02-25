@@ -1,0 +1,115 @@
+body{
+	
+}
+.content1{
+	border: 1px solid black;
+	height: 1100px;
+	width: 400px;
+	margin: 30px;
+
+}
+.content2{
+	
+
+
+}
+.content3{
+	border: 1px solid green;
+	height: 70px;
+	width: 30px;
+	background-color: yellow;
+	float: right;
+	margin-top: -1150px;
+
+
+
+
+}
+img{
+	width: 200px;
+	height: 300px;
+}
+.info{
+	background-color: yellow;
+	height: 750px;
+	margin-top: -3px;
+
+}
+.info h1{
+	padding: 20px;
+	margin-top: -5px;
+	margin-left: 
+}
+ul li{
+	list-style-type: none;
+	font-size: 10px;
+	margin: 10px;
+	margin-left: -20px;
+}
+.retouche1{
+	margin-left: 20px;
+}
+.content4{
+	background-color: white;
+	width: 400px;
+	height: 30px;
+	margin-top: 61px;
+	
+;
+}
+.content5{
+	background-color: red;
+	width: 400px;
+	height: 25px;
+	margin-top: px;
+	margin-bottom: px;
+
+	
+}
+.content6{
+	
+	width: 504px;
+	height: 70px;
+	margin-top: 80px;
+	margin-left: -825px;
+	background-color: yellow;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+
+}
+.content7{
+	border: 2px solid orange;
+	width: 500px;
+	height: 120px;
+	margin-left: -825px;
+	margin-top: 40px;
+}
+.langue{
+
+}
+.content8{
+	border: 2px solid orange;
+	width: 500px;
+	height: 490px;
+	margin-left: -825px;
+	margin-top: 30px;
+
+}
+.content9{
+	border: 2px solid orange;
+	width: 500px;
+	height: 215px;
+	margin-left: -825px;
+	margin-top: 40px;
+}
+.sect-gauche{
+	margin-top: 30px;
+	margin-left: 10px;
+	
+
+}
+.COMPETENCES{
+	px;
+}
